@@ -1,0 +1,181 @@
+{
+  "order_delivery": {
+    "description": "Customer asks about order status, shipping, delivery delays, or tracking.",
+    "keywords": [
+      "order",
+      "deliver",
+      "shipping",
+      "shipment",
+      "track",
+      "package",
+      "haven't received",
+      "not arrived",
+      "where is my",
+      "dispatched",
+      "estimated arrival",
+      "delayed",
+      "late delivery"
+    ],
+    "examples": [
+      "My package hasn't arrived yet, it's been 2 weeks",
+      "Where is my order? The tracking shows it's stuck",
+      "My delivery is late, can you help?"
+    ]
+  },
+  "refund_return": {
+    "description": "Customer requests a refund, return, or replacement.",
+    "keywords": [
+      "refund",
+      "return",
+      "money back",
+      "reimburse",
+      "replacement",
+      "send back",
+      "exchange",
+      "credit",
+      "charged twice"
+    ],
+    "examples": [
+      "I want a refund for my damaged product",
+      "How do I return this item?",
+      "I was charged twice, please refund one"
+    ]
+  },
+  "account_login": {
+    "description": "Customer has issues logging in, password reset, or account access.",
+    "keywords": [
+      "login",
+      "log in",
+      "sign in",
+      "password",
+      "account",
+      "locked",
+      "reset",
+      "access",
+      "can't access",
+      "forgot",
+      "username",
+      "verification",
+      "2fa",
+      "two factor"
+    ],
+    "examples": [
+      "I can't log into my account",
+      "I forgot my password, please help",
+      "My account is locked"
+    ]
+  },
+  "payment_billing": {
+    "description": "Customer has questions about charges, billing, payment methods.",
+    "keywords": [
+      "payment",
+      "charge",
+      "bill",
+      "invoice",
+      "debit",
+      "credit card",
+      "overcharged",
+      "unauthorized charge",
+      "subscription",
+      "fee",
+      "price",
+      "cost",
+      "amount"
+    ],
+    "examples": [
+      "Why was I charged $50?",
+      "My credit card was declined",
+      "I see an unauthorized charge on my account"
+    ]
+  },
+  "technical_issue": {
+    "description": "Customer reports a bug, app crash, website error, or technical problem.",
+    "keywords": [
+      "error",
+      "bug",
+      "crash",
+      "not working",
+      "broken",
+      "loading",
+      "app",
+      "website",
+      "glitch",
+      "freeze",
+      "slow",
+      "issue",
+      "problem",
+      "fail",
+      "doesn't work",
+      "not loading"
+    ],
+    "examples": [
+      "The app keeps crashing on my phone",
+      "I'm getting an error when I try to checkout",
+      "Your website is down"
+    ]
+  },
+  "cancellation": {
+    "description": "Customer wants to cancel an order, subscription, or service.",
+    "keywords": [
+      "cancel",
+      "cancellation",
+      "stop",
+      "unsubscribe",
+      "terminate",
+      "end subscription",
+      "cancel order",
+      "cancel my"
+    ],
+    "examples": [
+      "I want to cancel my order",
+      "Please cancel my subscription",
+      "How do I cancel?"
+    ]
+  },
+  "product_inquiry": {
+    "description": "Customer asks about product details, availability, or compatibility.",
+    "keywords": [
+      "available",
+      "in stock",
+      "compatible",
+      "specs",
+      "features",
+      "warranty",
+      "product",
+      "item",
+      "model",
+      "version",
+      "does it",
+      "will it work",
+      "question about"
+    ],
+    "examples": [
+      "Is this product available in blue?",
+      "What is the warranty on this item?",
+      "Does this work with iPhone?"
+    ]
+  },
+  "complaint_other": {
+    "description": "General complaints, negative experiences, or unclassifiable messages.",
+    "keywords": [
+      "disappointed",
+      "terrible",
+      "awful",
+      "worst",
+      "horrible",
+      "unacceptable",
+      "rude",
+      "angry",
+      "upset",
+      "complaint",
+      "never again",
+      "disgusting",
+      "outrageous"
+    ],
+    "examples": [
+      "This is the worst service I've ever experienced",
+      "I'm very disappointed with your company",
+      "Your customer service is terrible"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+tweet_id,author_id,inbound,text,in_response_to_tweet_id,created_at
+1001,CustomerA,True,My Amazon order hasnt arrived yet and its been 10 days. Can you help?,,,2023-01-01 10:00:00
+1002,AmazonHelp,False,Hi! Sorry to hear your order is delayed. Please DM us your order number so we can look into this for you.,1001,2023-01-01 10:05:00
+1003,CustomerB,True,I want to return a defective product I received. How do I get a refund?,,,2023-01-01 10:10:00
+1004,AmazonHelp,False,We're sorry about the defective item! Please go to Your Orders and select Return or Replace Items. A refund will be processed within 3-5 business days.,1003,2023-01-01 10:15:00
+1005,CustomerC,True,I cant log into my Amazon account. I forgot my password.,,,2023-01-01 10:20:00
+1006,AmazonHelp,False,No worries! Visit amazon.com/forgot-password and enter your email to reset your password. Check your inbox for the reset link.,1005,2023-01-01 10:25:00
+1007,CustomerD,True,Why was I charged twice for the same order?,,,2023-01-01 10:30:00
+1008,AmazonHelp,False,We apologize for the inconvenience! A duplicate charge can happen but is usually reversed within 24-48 hours. Please DM us your order ID and well investigate right away.,1007,2023-01-01 10:35:00
+1009,CustomerE,True,The Amazon app keeps crashing on my iPhone whenever I try to checkout.,,,2023-01-01 10:40:00
+1010,AmazonHelp,False,Sorry about the app issues! Try clearing the app cache or reinstalling the app. If the issue persists please DM us your device details.,1009,2023-01-01 10:45:00
+1011,CustomerF,True,I need to cancel my Prime subscription immediately.,,,2023-01-01 10:50:00
+1012,AmazonHelp,False,You can cancel Prime anytime from Account and Lists > Prime Membership > End Membership. Let us know if you need help!,1011,2023-01-01 10:55:00
+1013,CustomerG,True,Is the Echo Dot compatible with Google Home devices?,,,2023-01-01 11:00:00
+1014,AmazonHelp,False,The Echo Dot works with Alexa smart home devices but has limited native compatibility with Google Home. Check the product page for full compatibility details.,1013,2023-01-01 11:05:00
+1015,CustomerH,True,This is absolutely terrible service. My package was stolen and nobody is helping me.,,,2023-01-01 11:10:00
+1016,AmazonHelp,False,We are so sorry to hear this. Stolen packages are a serious matter. Please DM us immediately so we can open an investigation and explore your options.,1015,2023-01-01 11:15:00
+1017,CustomerI,True,My order shows delivered but I never received it. Tracking says it was left at the door.,,,2023-01-01 11:20:00
+1018,AmazonHelp,False,We are sorry about the missing package! Please wait 48 hours as sometimes packages are marked delivered early. If still missing DM us your order number.,1017,2023-01-01 11:25:00
+1019,CustomerJ,True,I was charged $9.99 for a subscription I never signed up for.,,,2023-01-01 11:30:00
+1020,AmazonHelp,False,We understand your concern! Unauthorized charges are taken very seriously. Please DM us your account details so we can investigate and process a refund if applicable.,1019,2023-01-01 11:35:00
+1021,CustomerK,True,Your website is showing an error 503 when I try to place an order.,,,2023-01-01 11:40:00
+1022,AmazonHelp,False,We apologize for the technical issue! Our team is aware and working to resolve it. Please try again in 15 minutes or use the Amazon app as an alternative.,1021,2023-01-01 11:45:00
+1023,CustomerL,True,I want to cancel my order before it ships.,,,2023-01-01 11:50:00
+1024,AmazonHelp,False,You can cancel your order from Your Orders if it hasnt shipped yet. If it has already shipped youll need to wait for delivery and then initiate a return.,1023,2023-01-01 11:55:00
+1025,CustomerM,True,When will the PlayStation 5 be back in stock on Amazon?,,,2023-01-01 12:00:00
+1026,AmazonHelp,False,Stock availability changes frequently! We recommend turning on availability alerts on the product page to be notified as soon as it is back in stock.,1025,2023-01-01 12:05:00
+1027,CustomerN,True,I am very disappointed with Amazon. My refund has been pending for 2 weeks.,,,2023-01-01 12:10:00
+1028,AmazonHelp,False,We apologize for the delay! Refunds typically process in 3-5 business days. Please DM us your refund ID so we can escalate this for you.,1027,2023-01-01 12:15:00
+1029,CustomerO,True,My password reset email never arrived. I checked spam folder.,,,2023-01-01 12:20:00
+1030,AmazonHelp,False,Sorry about that! Try an alternate email or verify the correct email is on file. If issues persist please DM us and we will help you regain access.,1029,2023-01-01 12:25:00
+1031,CustomerP,True,The product I received is completely different from what I ordered.,,,2023-01-01 12:30:00
+1032,AmazonHelp,False,We are sorry you received the wrong item! Please go to Your Orders and select Problem with Order to request a replacement or full refund.,1031,2023-01-01 12:35:00
+1033,CustomerQ,True,I think my Amazon account was hacked. I see orders I didnt place.,,,2023-01-01 12:40:00
+1034,AmazonHelp,False,This is very serious! Please change your password immediately and enable two-step verification. DM us right away so we can secure your account and investigate.,1033,2023-01-01 12:45:00
+1035,CustomerR,True,How long does standard shipping usually take?,,,2023-01-01 12:50:00
+1036,AmazonHelp,False,Standard shipping typically takes 3-5 business days depending on your location. Prime members get free 2-day shipping on eligible items.,1035,2023-01-01 12:55:00
+1037,CustomerS,True,I got a bill for items I returned weeks ago. This is outrageous.,,,2023-01-01 13:00:00
+1038,AmazonHelp,False,We sincerely apologize! A billing error after a return should not happen. Please DM us your order number and return tracking ID and we will resolve this immediately.,1037,2023-01-01 13:05:00
+1039,CustomerT,True,The Amazon Fire TV remote stopped working. Is this covered under warranty?,,,2023-01-01 13:10:00
+1040,AmazonHelp,False,Amazon devices typically come with a one-year limited warranty. Please check your purchase date and visit the device warranty page or DM us for further assistance.,1039,2023-01-01 13:15:00
+1041,CustomerU,True,I keep getting an error when trying to add my credit card to my account.,,,2023-01-01 13:20:00
+1042,AmazonHelp,False,Sorry about the payment error! Please ensure your billing address matches your bank records. If the issue persists try a different browser or clear your cookies.,1041,2023-01-01 13:25:00
+1043,CustomerV,True,My Amazon Fresh delivery arrived with spoiled produce. I want a refund.,,,2023-01-01 13:30:00
+1044,AmazonHelp,False,That is completely unacceptable and we apologize! For spoiled grocery items please go to Your Orders > Problem with Order and select refund. Items will be refunded immediately.,1043,2023-01-01 13:35:00
+1045,CustomerW,True,I never authorized Amazon to charge my card for Prime. This is fraud.,,,2023-01-01 13:40:00
+1046,AmazonHelp,False,We take unauthorized charge claims very seriously. Please DM us your account details so we can investigate this immediately and ensure your account is secure.,1045,2023-01-01 13:45:00
+1047,CustomerX,True,I want to know if the Kindle Paperwhite works without wifi.,,,2023-01-01 13:50:00
+1048,AmazonHelp,False,Yes! The Kindle Paperwhite can store books and read them offline without wifi. You need wifi only to download new books or sync your library.,1047,2023-01-01 13:55:00
+1049,CustomerY,True,My subscription renewal failed and now I lost Prime benefits.,,,2023-01-01 14:00:00
+1050,AmazonHelp,False,We are sorry about the failed renewal! Please update your payment method in Account Settings > Manage Prime. Your benefits should restore automatically once payment succeeds.,1049,2023-01-01 14:05:00

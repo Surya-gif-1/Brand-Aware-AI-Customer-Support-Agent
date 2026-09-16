@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.5775,
+  "escalation_precision": 0.5775,
+  "escalation_recall": 1.0,
+  "escalation_f1": 0.7321,
+  "confusion_matrix": [
+    [
+      0,
+      30
+    ],
+    [
+      0,
+      41
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "AUTO-HANDLE",
+    "ESCALATE"
+  ],
+  "n_examples": 71,
+  "n_escalated_true": 41,
+  "n_escalated_pred": 71
+}

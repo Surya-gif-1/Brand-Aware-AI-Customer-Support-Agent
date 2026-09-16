@@ -1,0 +1,32 @@
+{
+  "classifiers": {
+    "error": "The least populated classes in y have only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2. Classes with too few members are: ['cancellation']"
+  },
+  "escalation": {
+    "accuracy": 0.5775,
+    "escalation_precision": 0.5775,
+    "escalation_recall": 1.0,
+    "escalation_f1": 0.7321,
+    "confusion_matrix": [
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        41
+      ]
+    ],
+    "confusion_matrix_labels": [
+      "AUTO-HANDLE",
+      "ESCALATE"
+    ],
+    "n_examples": 71,
+    "n_escalated_true": 41,
+    "n_escalated_pred": 71
+  },
+  "response_eval": {
+    "status": "no_scores",
+    "reason": "All scoring attempts failed."
+  }
+}
